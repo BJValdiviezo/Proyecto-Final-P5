@@ -11,13 +11,18 @@
             <sorted>false</sorted>
             <value>
                 <fullName>Not Started</fullName>
-                <default>false</default>
+                <default>true</default>
                 <label>Not Started</label>
             </value>
             <value>
                 <fullName>In Progress</fullName>
                 <default>false</default>
                 <label>In Progress</label>
+            </value>
+            <value>
+                <fullName>Completed</fullName>
+                <default>false</default>
+                <label>Completed</label>
             </value>
         </valueSetDefinition>
     </valueSet>

@@ -4,8 +4,8 @@
     <externalId>false</externalId>
     <label>Project</label>
     <referenceTo>Project__c</referenceTo>
-    <relationshipLabel>Projet Roles</relationshipLabel>
-    <relationshipName>Projet_Roles</relationshipName>
+    <relationshipLabel>Project Roles</relationshipLabel>
+    <relationshipName>Project_Roles</relationshipName>
     <relationshipOrder>0</relationshipOrder>
     <reparentableMasterDetail>false</reparentableMasterDetail>
     <trackTrending>false</trackTrending>

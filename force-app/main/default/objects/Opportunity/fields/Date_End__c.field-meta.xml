@@ -3,7 +3,7 @@
     <fullName>Date_End__c</fullName>
     <externalId>false</externalId>
     <label>Date End</label>
-    <required>false</required>
+    <required>true</required>
     <trackFeedHistory>false</trackFeedHistory>
     <trackTrending>false</trackTrending>
     <type>Date</type>
